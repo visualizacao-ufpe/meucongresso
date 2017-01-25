@@ -1,6 +1,6 @@
 import * as d3 from 'd3'
 
-const GEOJSON_PATH = '../../data/brazil.geojson';
+const GEOJSON_PATH = '../../meucongresso/data/brazil.geojson';
 const GEOJSON_DATA = {};
 
 export default class BrazilGeoJSON {
