@@ -1,11 +1,11 @@
 SystemJS.config({
   paths: {
-    "npm:": "jspm_packages/npm/",
-    "github:": "jspm_packages/github/",
-    "visu-congresso/": "src/"
+    "npm:": "meucongresso/jspm_packages/npm/",
+    "github:": "meucongresso/jspm_packages/github/",
+    "visu-congresso/": "meucongresso/src/"
   },
   browserConfig: {
-    "baseURL": "meucongresso/"
+    "baseURL": "/"
   },
   devConfig: {
     "map": {
