@@ -1,7 +1,7 @@
 SystemJS.config({
   paths: {
-    "npm:": "asdfjspm_packages/npm/",
-    "github:": "asdfjspm_packages/github/",
+    "npm:": "meucongresso/jspm_packages/npm/",
+    "github:": "meucongresso/jspm_packages/github/",
     "visu-congresso/": "src/"
   },
   browserConfig: {
